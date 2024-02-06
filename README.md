@@ -14,3 +14,6 @@ https://climbtheladder.com/django-rest-framework-interview-questions/
 
 Job Responsibilites and day to day activites:  
 https://resources.workable.com/senior-software-engineer-job-description#:~:text=Your%20primary%20objective%20will%20be,code%2C%20and%20conducting%20thorough%20testing.  
+
+Key Responsibilites:  
+https://drive.google.com/drive/folders/1aqeHMUnGCM-zsVUoeWOmgUupEfLgrCzu  
