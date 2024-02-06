@@ -1,7 +1,7 @@
 # blogReferal
 Useful Blogs to refer or revise.
 
-REST Architectural Style:
+REST Architectural Style:  
 https://www.codecademy.com/article/what-is-rest  
 
 FastAPI Interview Questions:
